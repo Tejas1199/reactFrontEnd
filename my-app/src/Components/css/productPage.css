@@ -1,0 +1,40 @@
+.card-size{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    height: 400px;
+    width: 200px;
+    margin-left: 50px;
+}
+.margin-top{
+    margin-top: 100px;
+
+}
+.productInfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+.leftDiv{
+    flex:1;
+}
+.rightDiv{
+    flex:2;
+}
+.prodCardSize{
+    margin-top: 100px;
+    height: 500px;
+    width: 700px;
+    margin-bottom: 50px;
+
+}
+.simiCard{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    height: 300px;
+    width: 1400px;
+}
+.simiImg{
+    height: 300px;
+    width: 300px;
+}
